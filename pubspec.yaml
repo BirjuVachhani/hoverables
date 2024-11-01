@@ -1,0 +1,18 @@
+name: hoverables
+description: "A collection of widgets to build hover interactions easily."
+version: 0.0.1
+homepage: https://github.com/BirjuVachhani/hoverables
+repository: https://github.com/BirjuVachhani/hoverables
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
