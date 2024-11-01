@@ -7,6 +7,12 @@ in Flutter without dealing with managing hover state explicitly.
 
 Demo: [Playground](https://hoverables.codemagic.app/)
 
+## Features
+
+- `HoverBuilder`: A simple yet powerful builder to build hover effects.
+- [Coming Soon] `AnimatedHoverBuilder`: A builder that provides hover state with animation.
+- [Coming Soon] `GrabRegion`: A widget that changes the cursor to `grab` when hovered and `grabbing` when pressed.
+
 ## Getting Started
 
 1. Add as a dependency in your project's `pub spec.yaml`
