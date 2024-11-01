@@ -5,11 +5,14 @@ in Flutter without dealing with managing hover state explicitly.
 
 Demo: [Playground](https://hoverables.codemagic.app/)
 
+## Getting Started
 
+1. Add as a dependency in your project's `pub spec.yaml`
+
+```dart
 dependencies:
 hoverables: <latest_version>
 ```
-
 2. Import library into your code.
 
 ```dart
