@@ -53,7 +53,7 @@ HoverBuilder(
 );
 ```
 
-Checkout [example](/example/lib/main.dart) for more examples.
+Checkout [example](https://github.com/BirjuVachhani/hoverables/blob/main/example/lib/main.dart) for more examples.
 
 ## Features and bugs
 
