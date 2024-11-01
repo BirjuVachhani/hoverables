@@ -3,6 +3,8 @@
 Easiest and cleanest way to build hover effects in Flutter. This package provides a simple way to build hover effects
 in Flutter without dealing with managing hover state explicitly.
 
+[![Pub Package](https://img.shields.io/pub/v/hoverables.svg)](https://pub.dev/packages/hoverables) [![Code Quality](https://github.com/BirjuVachhani/hoverables/workflows/Code%20Quality/badge.svg?branch=main)](https://github.com/BirjuVachhani/hoverables/actions)
+
 Demo: [Playground](https://hoverables.codemagic.app/)
 
 ## Getting Started
